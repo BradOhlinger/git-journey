@@ -1,4 +1,1 @@
-one
-hello
-
 Adding dark mode functionality
