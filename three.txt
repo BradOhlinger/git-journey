@@ -1,5 +1,4 @@
 three
 pull demo
 stash
-Hello 3
 
